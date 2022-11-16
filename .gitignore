@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/Named arguments/Car speed/out/
+/Topics/Named arguments/Car speed/out/production/classes/
+/Topics/Named arguments/Deposit/out/
+/Topics/Named arguments/Deposit/out/production/classes/
+/Topics/Property accessors/Implement a class/out/
+/Topics/Property accessors/Implement a class/out/production/classes/
